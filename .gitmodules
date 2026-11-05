@@ -13,3 +13,6 @@
 [submodule "third_party/wakaru"]
 	path = third_party/wakaru
 	url = https://github.com/pionxzh/wakaru.git
+[submodule "harness"]
+	path = harness
+	url = https://github.com/joshuameyer113Geo/q-agent-harness
